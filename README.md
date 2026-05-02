@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/6231396f-ba4a-47bd-a6a9-973062dad4f7
+
 # AUXO — Monte Carlo Investment Simulator
 
 Oracle-funded undergraduate research project at UMass Boston.
